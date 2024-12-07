@@ -188,6 +188,10 @@
   },
   "active": "c8d927ba2897a000",
   "lastOpenFiles": [
+    "my/themes.canvas",
+    "my/complete themes.md",
+    "my/Проект 2.md",
+    "my",
     "jinja+html/html.md",
     "jinja+html/jinja+fastapi.md",
     "Проект 2.md",
@@ -218,12 +222,8 @@
     "lesson 4/depends, request в fastapi.md",
     "lesson 3/lesson 3(pydantic).md",
     "lesson 6",
-    "github",
     "conspects/router.md",
     "conspects/request.md",
-    "conspects/response.md",
-    "conspects/аннотациях.md",
-    "conspects/типизацией.md",
-    "lesson 1-2/hw.md"
+    "conspects/response.md"
   ]
 }
