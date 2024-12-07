@@ -11,17 +11,14 @@
             "id": "ba84b6c2d9d0c37f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "my/themes.canvas",
-                "viewState": {
-                  "x": 1999,
-                  "y": -133.5,
-                  "zoom": -2.4625939387655857
-                }
+                "file": "async/async with python.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "themes"
+              "icon": "lucide-file",
+              "title": "async with python"
             }
           }
         ]
@@ -189,12 +186,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcfb62dcbbe2906d",
+  "active": "ba84b6c2d9d0c37f",
   "lastOpenFiles": [
+    "my/themes.canvas",
+    "async/async with python.md",
     "docker",
     "async",
     "jinja+html/jinja+fastapi.md",
-    "my/themes.canvas",
     "my/complete themes.md",
     "my/Проект 2.md",
     "my",
@@ -220,14 +218,12 @@
     "work with .env",
     "SQL",
     "Excalidraw/Drawing 2024-10-18 20.26.24.excalidraw.md",
-    "Excalidraw",
     "lesson 1-2/Урок 1-2 (router, methods, theory, params).md",
     "lesson 4/errors.md",
     "lesson 4/архитектура.md",
     "lesson 4/depends, request в fastapi.md",
     "lesson 3/lesson 3(pydantic).md",
     "conspects/router.md",
-    "conspects/request.md",
-    "conspects/response.md"
+    "conspects/request.md"
   ]
 }
