@@ -186,8 +186,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8d927ba2897a000",
+  "active": "fcfb62dcbbe2906d",
   "lastOpenFiles": [
+    "проекты",
     "async/Асинхронность в Python.md",
     "async/Асинхронность в SQLAlchemy.md",
     "async/async with python.md",
@@ -196,7 +197,7 @@
     "async",
     "jinja+html/jinja+fastapi.md",
     "my/complete themes.md",
-    "my/Проект 2.md",
+    "проекты/Проект 2.md",
     "my",
     "jinja+html/html.md",
     "Проект 2.md",
@@ -224,7 +225,6 @@
     "lesson 4/errors.md",
     "lesson 4/архитектура.md",
     "lesson 4/depends, request в fastapi.md",
-    "lesson 3/lesson 3(pydantic).md",
-    "conspects/router.md"
+    "lesson 3/lesson 3(pydantic).md"
   ]
 }
