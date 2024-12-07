@@ -11,14 +11,17 @@
             "id": "ba84b6c2d9d0c37f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "jinja+html/jinja+fastapi.md",
-                "mode": "source",
-                "source": false
+                "file": "my/themes.canvas",
+                "viewState": {
+                  "x": 1999,
+                  "y": -133.5,
+                  "zoom": -2.4625939387655857
+                }
               },
-              "icon": "lucide-file",
-              "title": "jinja+fastapi"
+              "icon": "lucide-layout-dashboard",
+              "title": "themes"
             }
           }
         ]
@@ -186,14 +189,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c8d927ba2897a000",
+  "active": "fcfb62dcbbe2906d",
   "lastOpenFiles": [
+    "docker",
+    "async",
+    "jinja+html/jinja+fastapi.md",
     "my/themes.canvas",
     "my/complete themes.md",
     "my/Проект 2.md",
     "my",
     "jinja+html/html.md",
-    "jinja+html/jinja+fastapi.md",
     "Проект 2.md",
     "jinja+html",
     "themes.canvas",
@@ -221,7 +226,6 @@
     "lesson 4/архитектура.md",
     "lesson 4/depends, request в fastapi.md",
     "lesson 3/lesson 3(pydantic).md",
-    "lesson 6",
     "conspects/router.md",
     "conspects/request.md",
     "conspects/response.md"
