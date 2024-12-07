@@ -1,0 +1,21 @@
+
+- [x] router [[Урок 1-2 (router, methods, theory, params)]]
+- [x] theory [[Урок 1-2 (router, methods, theory, params)]]
+- [x] methods [[Урок 1-2 (router, methods, theory, params)]]
+- [x] params [[Урок 1-2 (router, methods, theory, params)]]
+- [x] errors
+- [x] pydantic [[lesson 3(pydantic)]]
+- [x] архитектура
+- [x] ПРОЕКТ Приложение с выкладыванием постов, авторизацией и регистрацией 
+- [x] что такое бд?
+- [x] sqllite
+- [x] sql
+- [x] integrate with python
+- [x] postgresql
+- [x] sqlalchemy cors
+- [x] sqlalchemy orm
+- [x] github
+- [x] Проект на тему
+- [ ] Оптимазция
+- [ ] Rest api
+- [ ] 
