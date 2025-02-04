@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "async/Асинхронность в SQLAlchemy.md",
+                "file": "шифрование паролей/pyjwt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Асинхронность в SQLAlchemy"
+              "title": "pyjwt"
             }
           }
         ]
@@ -186,44 +186,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcfb62dcbbe2906d",
+  "active": "ba84b6c2d9d0c37f",
   "lastOpenFiles": [
+    "шифрование паролей/bcrypt python.md",
+    "шифрование паролей/pyjwt.md",
+    "проекты/Проект 2.md",
+    "common/аннотациях.md",
+    "common/типизацией.md",
+    "common/request.md",
+    "common/response.md",
+    "common/router.md",
+    "base/Урок 1-2 (router, methods, theory, params).md",
     "SQL/sqlalchemy.md",
+    "Без названия.md",
+    "my/themes.canvas",
+    "my/complete themes.md",
     "SQL/relationship in sqlalchemy.md",
     "async/Асинхронность в SQLAlchemy.md",
     "async/Асинхронность в Python.md",
-    "my/themes.canvas",
-    "my/complete themes.md",
     "проекты",
     "async/async with python.md",
     "docker",
     "async",
     "jinja+html/jinja+fastapi.md",
-    "проекты/Проект 2.md",
     "my",
     "jinja+html/html.md",
     "Проект 2.md",
     "jinja+html",
     "themes.canvas",
     "complete themes.md",
-    "auth/pyjwt.md",
-    "auth/Авторизация.md",
+    "Авторизация/pyjwt.md",
+    "Авторизация/Авторизация.md",
     "шифрование паролей",
-    "auth",
+    "Авторизация",
     "work.7z",
     "github/github.md",
     "SQL/relationship.md",
     "SQL/База данных postgres, sql язык.md",
     "SQL/Работа с PostgreSQL на Python.md",
-    "[.md",
-    "work with .env/pydantic-settings.md",
     "work.rar",
-    "work with .env",
-    "Excalidraw/Drawing 2024-10-18 20.26.24.excalidraw.md",
-    "lesson 1-2/Урок 1-2 (router, methods, theory, params).md",
-    "lesson 4/errors.md",
-    "lesson 4/архитектура.md",
-    "lesson 4/depends, request в fastapi.md",
-    "lesson 3/lesson 3(pydantic).md"
+    "work with .env"
   ]
 }
