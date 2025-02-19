@@ -186,9 +186,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "260bd804aebdbcd7",
+  "active": "fcfb62dcbbe2906d",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-02-19 21.50.25.excalidraw.md",
     "SQL/relationship.md",
+    "Excalidraw",
     "work with .env/pydantic-settings.md",
     "async/Асинхронность в SQLAlchemy.md",
     "Без названия",
@@ -223,8 +225,6 @@
     "Авторизация/Авторизация.md",
     "шифрование паролей",
     "Авторизация",
-    "work.7z",
-    "github/github.md",
-    "work.rar"
+    "work.7z"
   ]
 }
