@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/relationshipadssaddsaasda.md",
+                "file": "SQL/relationship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "relationshipadssaddsaasda"
+              "title": "relationship"
             }
           }
         ]
@@ -188,9 +188,7 @@
   },
   "active": "260bd804aebdbcd7",
   "lastOpenFiles": [
-    "common/типизацией.md",
-    "SQL/relationshipf.md",
-    "SQL/relationshipadssaddsaasda.md",
+    "SQL/relationship.md",
     "work with .env/pydantic-settings.md",
     "async/Асинхронность в SQLAlchemy.md",
     "Без названия",
@@ -204,6 +202,7 @@
     "шифрование паролей/bcrypt python.md",
     "проекты/Проект 2.md",
     "common/аннотациях.md",
+    "common/типизацией.md",
     "common/request.md",
     "common/response.md",
     "common/router.md",
@@ -225,6 +224,7 @@
     "шифрование паролей",
     "Авторизация",
     "work.7z",
+    "github/github.md",
     "work.rar"
   ]
 }
