@@ -11,10 +11,14 @@
             "id": "f2a2fffcd2938e02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "SQL/relationshipf.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "relationshipf"
             }
           }
         ]
@@ -220,7 +224,7 @@
     "Авторизация",
     "work.7z",
     "github/github.md",
-    "SQL/relationship.md",
+    "SQL/relationshipf.md",
     "work.rar"
   ]
 }
