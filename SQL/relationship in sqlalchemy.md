@@ -87,7 +87,7 @@ class Profile(Base):
     id: Mapped[int] = mapped_column(primary_key=True)
     bio: Mapped[str]
     user_id: Mapped[int] = mapped_column(ForeignKey('users.id'))
-    user: Mapped["User"] = relationship(back_populates="profile")
+    user: Mapped["User"] = relationship(back_populates="profile", uselist=False)
 
 ```
 
