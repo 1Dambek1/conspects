@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/relationshipf.md",
+                "file": "SQL/relationship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "relationshipf"
+              "title": "relationship"
             }
           }
         ]
@@ -187,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2a2fffcd2938e02",
+  "active": "260bd804aebdbcd7",
   "lastOpenFiles": [
     "work with .env/pydantic-settings.md",
     "async/Асинхронность в SQLAlchemy.md",
@@ -225,7 +225,7 @@
     "Авторизация",
     "work.7z",
     "github/github.md",
-    "SQL/relationshipf.md",
+    "SQL/relationship.md",
     "work.rar"
   ]
 }
