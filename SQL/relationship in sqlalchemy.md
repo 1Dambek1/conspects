@@ -33,15 +33,34 @@ class User(Base):
     __tablename__ = 'users'
     id: Mapped[int] = mapped_column(primary_key=True)
     name: Mapped[str] = mapped_column()
-    articles: Mapped[list["Article"]] = relationship(back_populates="author")
+    articles: Mapped[list["Article"]] = relationship(back_populates="author", uselist=True)
 
 class Article(Base):
     __tablename__ = 'articles'
     id: Mapped[int] = mapped_column(primary_key=True)
     title: Mapped[str] = mapped_column()
     user_id: Mapped[int] = mapped_column(ForeignKey('users.id'))
-    author: Mapped["User"] = relationship(back_populates="articles")
+    author: Mapped["User"] = relationship(back_populates="articles", uselist = False)
+user = {
+id:1
+name:"Vasia"
+articles:[{
+	id:1
+	title:"Игрок"
+	user_id:1
+	author:----
+}]
+profile
+} 
+%% SELECT * FROM users where id == 1 JOIN  %%
+%% SELECT * FROM articles where user_id == user.id  %%
+user.articles
+
+  result = await session.execute(
+        select(User).options(selectinload(User.articles).selectinload(Article.author))
+    )
 ```
+
 
 ### Многие ко многим (Many-to-Many)
 
@@ -51,11 +70,10 @@ from sqlalchemy import Table, ForeignKey
 
 
 
-class StudentCoursre(Base):
+class StudentCourses(Base):
 	__tablename__ = "studentcourse"
-	student_id:Mapped[int] = mapped_column(ForeignKey('students.id')primary_key=True)
-	course_id:Mapped[int] = mapped_column(ForeignKey('courses.id')primary_key=True)
-	
+	student_id:Mapped[int] = mapped_column(ForeignKey('students.id'),primary_key=True)
+	course_id:Mapped[int] = mapped_column(ForeignKey('courses.id'),primary_key=True)
 
 class Student(Base):
     __tablename__ = 'students'
@@ -68,6 +86,9 @@ class Course(Base):
     id: Mapped[int] = mapped_column(primary_key=True)
     title: Mapped[str] = mapped_column()
     students: Mapped[list["Student"]] = relationship(secondary="studentcourse", back_populates="courses",uselist=True)
+
+student1 = Student(...)
+student2 = Student(...)
 
 ```
 
