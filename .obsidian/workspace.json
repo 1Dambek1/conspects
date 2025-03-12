@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "jinja+html/jinja+fastapi.md",
+                "file": "alembic/alembic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jinja+fastapi"
+              "title": "alembic"
             }
           }
         ]
@@ -189,6 +189,11 @@
   },
   "active": "f2a2fffcd2938e02",
   "lastOpenFiles": [
+    "my/themes.canvas",
+    "alembic/alembic.md",
+    "alembic",
+    "my/complete themes.md",
+    "jinja+html/jinja+fastapi.md",
     "SQL/Виды подгрузки (loading strategies) при асинхронности в SQLAlchemy.md",
     "SQL/relationship.md",
     "SQL/relationship in sqlalchemy.md",
@@ -199,14 +204,10 @@
     "Excalidraw",
     "work with .env/pydantic-settings.md",
     "async/Асинхронность в SQLAlchemy.md",
-    "Без названия",
     "async/Асинхронность в Python.md",
     "base/архитектура.md",
-    "jinja+html/jinja+fastapi.md",
     "jinja+html/html.md",
-    "my/complete themes.md",
     "шифрование паролей/pyjwt.md",
-    "my/themes.canvas",
     "шифрование паролей/bcrypt python.md",
     "проекты/Проект 2.md",
     "common/аннотациях.md",
@@ -217,11 +218,9 @@
     "base/Урок 1-2 (router, methods, theory, params).md",
     "Без названия.md",
     "проекты",
-    "async/async with python.md",
     "docker",
     "async",
     "my",
-    "Проект 2.md",
     "jinja+html",
     "themes.canvas",
     "шифрование паролей",
