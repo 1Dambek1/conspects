@@ -11,17 +11,14 @@
             "id": "f2a2fffcd2938e02",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "my/themes.canvas",
-                "viewState": {
-                  "x": 2769.6350356436706,
-                  "y": -225.46772508684836,
-                  "zoom": -0.7959272720989192
-                }
+                "file": "docker/docker.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "themes"
+              "icon": "lucide-file",
+              "title": "docker"
             }
           }
         ]
@@ -192,8 +189,10 @@
   },
   "active": "f2a2fffcd2938e02",
   "lastOpenFiles": [
-    "alembic/alembic.md",
     "my/themes.canvas",
+    "docker/docker.md",
+    "Без названия",
+    "alembic/alembic.md",
     "alembic",
     "my/complete themes.md",
     "jinja+html/jinja+fastapi.md",
@@ -219,7 +218,6 @@
     "common/response.md",
     "common/router.md",
     "base/Урок 1-2 (router, methods, theory, params).md",
-    "Без названия.md",
     "проекты",
     "docker",
     "async",
@@ -227,7 +225,6 @@
     "jinja+html",
     "themes.canvas",
     "шифрование паролей",
-    "Авторизация",
-    "work.7z"
+    "Авторизация"
   ]
 }
