@@ -11,14 +11,17 @@
             "id": "f2a2fffcd2938e02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "alembic/alembic.md",
-                "mode": "source",
-                "source": false
+                "file": "my/themes.canvas",
+                "viewState": {
+                  "x": 2769.6350356436706,
+                  "y": -225.46772508684836,
+                  "zoom": -0.7959272720989192
+                }
               },
-              "icon": "lucide-file",
-              "title": "alembic"
+              "icon": "lucide-layout-dashboard",
+              "title": "themes"
             }
           }
         ]
@@ -189,8 +192,8 @@
   },
   "active": "f2a2fffcd2938e02",
   "lastOpenFiles": [
-    "my/themes.canvas",
     "alembic/alembic.md",
+    "my/themes.canvas",
     "alembic",
     "my/complete themes.md",
     "jinja+html/jinja+fastapi.md",
