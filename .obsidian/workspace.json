@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alembic/alembic.md",
+                "file": "my/complete themes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alembic"
+              "title": "complete themes"
             }
           }
         ]
@@ -187,16 +187,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2a2fffcd2938e02",
+  "active": "fcfb62dcbbe2906d",
   "lastOpenFiles": [
     "my/themes.canvas",
+    "alembic/alembic.md",
     "my/complete themes.md",
     "async/Асинхронность в Python.md",
     "Авторизация/pyjwt.md",
     "Авторизация/Авторизация.md",
     "docker/docker.md",
     "Без названия",
-    "alembic/alembic.md",
     "alembic",
     "jinja+html/jinja+fastapi.md",
     "SQL/Виды подгрузки (loading strategies) при асинхронности в SQLAlchemy.md",
