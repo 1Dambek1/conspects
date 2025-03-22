@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "my/complete themes.md",
+                "file": "alembic/alembic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "complete themes"
+              "title": "alembic"
             }
           }
         ]
@@ -187,11 +187,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcfb62dcbbe2906d",
+  "active": "f2a2fffcd2938e02",
   "lastOpenFiles": [
+    "my/complete themes.md",
     "my/themes.canvas",
     "alembic/alembic.md",
-    "my/complete themes.md",
     "async/Асинхронность в Python.md",
     "Авторизация/pyjwt.md",
     "Авторизация/Авторизация.md",
