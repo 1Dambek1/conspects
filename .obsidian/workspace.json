@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker compose.md",
+                "file": "alembic/alembic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker compose"
+              "title": "alembic"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "1146e1116a01c8e5",
