@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alembic/alembic.md",
+                "file": "docker/docker compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alembic"
+              "title": "docker compose"
             }
           }
         ]
@@ -191,8 +191,8 @@
   "lastOpenFiles": [
     "docker/docker.md",
     "docker/docker compose.md",
-    "async/Асинхронность в Python.md",
     "alembic/alembic.md",
+    "async/Асинхронность в Python.md",
     "my/complete themes.md",
     "my/themes.canvas",
     "Авторизация/pyjwt.md",
