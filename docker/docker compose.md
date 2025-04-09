@@ -1,5 +1,6 @@
 
 
+
 ## 1. Установка Docker и Docker Compose
 
 Перед началом работы убедитесь, что у вас установлены **Docker** и **Docker Compose**.
