@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 352.5
   },
   "right": {
     "id": "1146e1116a01c8e5",
@@ -187,8 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2a2fffcd2938e02",
+  "active": "fcfb62dcbbe2906d",
   "lastOpenFiles": [
+    "микросервисная структура/Drawing 2025-04-12 19.48.58.excalidraw.md",
+    "микросервисная структура",
     "docker/docker.md",
     "docker/docker compose.md",
     "alembic/alembic.md",
@@ -218,14 +220,12 @@
     "common/аннотациях.md",
     "common/типизацией.md",
     "common/request.md",
-    "common/response.md",
     "проекты",
     "docker",
     "async",
     "my",
     "jinja+html",
     "themes.canvas",
-    "шифрование паролей",
-    "Авторизация"
+    "шифрование паролей"
   ]
 }
