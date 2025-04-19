@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alembic/alembic.md",
+                "file": "base/errors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alembic"
+              "title": "errors"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Файловый менеджер"
+              "title": "Files"
             }
           },
           {
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1146e1116a01c8e5",
@@ -177,26 +176,30 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Меню быстрого перехода": false,
-      "graph:Граф": false,
-      "canvas:Создать новый холст": false,
-      "daily-notes:Сегодняшняя заметка": false,
-      "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false,
-      "markdown-importer:Импорт Markdown-файлов": false,
-      "audio-recorder:Начать/остановить запись": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2a2fffcd2938e02",
+  "active": "fcfb62dcbbe2906d",
   "lastOpenFiles": [
-    "docker/docker compose.md",
+    "base/depends, request в fastapi.md",
+    "base/Урок 1-2 (router, methods, theory, params).md",
+    "base/архитектура.md",
+    "async/Асинхронность в Python.md",
     "микросервисная структура/Drawing 2025-04-12 19.48.58.excalidraw.md",
+    "Pasted Image 20250419201412_139.png",
+    "docker/docker compose.md",
     "микросервисная структура",
     "docker/docker.md",
     "alembic/alembic.md",
-    "async/Асинхронность в Python.md",
     "my/complete themes.md",
     "my/themes.canvas",
     "Авторизация/pyjwt.md",
@@ -214,14 +217,11 @@
     "Excalidraw",
     "work with .env/pydantic-settings.md",
     "async/Асинхронность в SQLAlchemy.md",
-    "base/архитектура.md",
     "jinja+html/html.md",
     "шифрование паролей/pyjwt.md",
     "шифрование паролей/bcrypt python.md",
     "проекты/Проект 2.md",
     "common/аннотациях.md",
-    "common/типизацией.md",
-    "common/request.md",
     "проекты",
     "docker",
     "async",
