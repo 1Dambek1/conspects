@@ -11,14 +11,12 @@
             "id": "f2a2fffcd2938e02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "base/errors.md",
-                "mode": "source",
-                "source": false
+                "file": "микросервисная структура/Drawing 2025-04-12 19.48.58.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "errors"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-04-12 19.48.58.excalidraw"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "1146e1116a01c8e5",
@@ -188,13 +187,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fcfb62dcbbe2906d",
+  "active": "f2a2fffcd2938e02",
   "lastOpenFiles": [
+    "микросервисная структура/Drawing 2025-04-12 19.48.58.excalidraw.md",
+    "base/errors.md",
     "base/depends, request в fastapi.md",
     "base/Урок 1-2 (router, methods, theory, params).md",
     "base/архитектура.md",
     "async/Асинхронность в Python.md",
-    "микросервисная структура/Drawing 2025-04-12 19.48.58.excalidraw.md",
     "Pasted Image 20250419201412_139.png",
     "docker/docker compose.md",
     "микросервисная структура",
@@ -221,7 +221,6 @@
     "шифрование паролей/pyjwt.md",
     "шифрование паролей/bcrypt python.md",
     "проекты/Проект 2.md",
-    "common/аннотациях.md",
     "проекты",
     "docker",
     "async",
