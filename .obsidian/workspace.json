@@ -11,12 +11,14 @@
             "id": "f2a2fffcd2938e02",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "микросервисная структура/Drawing 2025-04-12 19.48.58.excalidraw.md"
+                "file": "архитектура проекта/архитектура.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-04-12 19.48.58.excalidraw"
+              "icon": "lucide-file",
+              "title": "архитектура"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "арх",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Поиск"
+              "title": "Search"
             }
           },
           {
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1146e1116a01c8e5",
@@ -187,13 +188,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2a2fffcd2938e02",
+  "active": "fcfb62dcbbe2906d",
   "lastOpenFiles": [
+    "архитектура проекта",
     "микросервисная структура/Drawing 2025-04-12 19.48.58.excalidraw.md",
     "base/errors.md",
     "base/depends, request в fastapi.md",
     "base/Урок 1-2 (router, methods, theory, params).md",
-    "base/архитектура.md",
+    "архитектура проекта/архитектура.md",
     "async/Асинхронность в Python.md",
     "Pasted Image 20250419201412_139.png",
     "docker/docker compose.md",
@@ -220,7 +222,6 @@
     "jinja+html/html.md",
     "шифрование паролей/pyjwt.md",
     "шифрование паролей/bcrypt python.md",
-    "проекты/Проект 2.md",
     "проекты",
     "docker",
     "async",
