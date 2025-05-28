@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3149b915adbbc8a0",
+            "id": "aa548dc6261978de",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted Image 20250419201412_139.png"
+                "file": "отложенные задачи/отложенные задачи.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20250419201412_139"
+              "icon": "lucide-file",
+              "title": "отложенные задачи"
             }
           }
         ]
@@ -186,19 +188,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3149b915adbbc8a0",
+  "active": "aa548dc6261978de",
   "lastOpenFiles": [
-    "отложенные задачи/flower.md",
+    "Excalidraw/Drawing 2025-05-24 20.15.40.excalidraw.md",
+    "микросервисная структура/Drawing 2025-04-12 19.48.58.excalidraw.md",
     "отложенные задачи/отложенные задачи.md",
     "архитектура проекта/архитектура.md",
+    "Excalidraw/Drawing 2025-05-24 20.14.52.excalidraw.md",
+    "Excalidraw",
+    "Pasted Image 20250419201412_139.png",
+    "отложенные задачи/flower.md",
     "отложенные задачи",
     "архитектура проекта",
-    "микросервисная структура/Drawing 2025-04-12 19.48.58.excalidraw.md",
     "base/errors.md",
     "base/depends, request в fastapi.md",
     "base/Урок 1-2 (router, methods, theory, params).md",
     "async/Асинхронность в Python.md",
-    "Pasted Image 20250419201412_139.png",
     "docker/docker compose.md",
     "микросервисная структура",
     "docker/docker.md",
@@ -217,11 +222,8 @@
     "SQL/sqlalchemy.md",
     "conflict-files-obsidian-git.md",
     "Excalidraw/Drawing 2025-02-19 21.50.25.excalidraw.md",
-    "Excalidraw",
     "work with .env/pydantic-settings.md",
     "async/Асинхронность в SQLAlchemy.md",
-    "jinja+html/html.md",
-    "шифрование паролей/pyjwt.md",
     "проекты",
     "docker",
     "async",
