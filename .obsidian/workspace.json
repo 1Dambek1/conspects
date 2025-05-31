@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "json/json.md",
+                "file": "redis/redis.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "json"
+              "title": "redis"
             }
           }
         ]
@@ -189,10 +189,10 @@
   },
   "active": "de5242d76a0443e7",
   "lastOpenFiles": [
+    "json/json.md",
     "redis/redis.md",
     "отложенные задачи/flower.md",
     "отложенные задачи/отложенные задачи.md",
-    "json/json.md",
     "json",
     "redis",
     "Excalidraw/Drawing 2025-05-24 20.15.40.excalidraw.md",
