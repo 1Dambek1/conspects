@@ -40,11 +40,18 @@ services:
       - redis
     command: celery -A app.worker worker --loglevel=info
 
-  redis:
-    image: redis:7
+  redis:
+
+    image: redis:alpine
+
+    container_name: redis
+
+    ports:
+
+      - 6379:6379
 
   flower:
-    image: mher/flower
+    image: mher/flower:0.9.7
     command: flower --broker=redis://redis:6379/0 --port=5555
     ports:
       - "5555:5555"

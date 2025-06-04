@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis/redis.md",
+                "file": "отложенные задачи/отложенные задачи.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "redis"
+              "title": "отложенные задачи"
             }
           }
         ]
@@ -189,10 +189,10 @@
   },
   "active": "de5242d76a0443e7",
   "lastOpenFiles": [
+    "отложенные задачи/flower.md",
     "микросервисная структура/Drawing 2025-04-12 19.48.58.excalidraw.md",
     "redis/redis.md",
     "json/json.md",
-    "отложенные задачи/flower.md",
     "отложенные задачи/отложенные задачи.md",
     "json",
     "redis",
