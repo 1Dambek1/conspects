@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 532.5
+    "width": 204.5
   },
   "right": {
     "id": "1146e1116a01c8e5",
@@ -185,14 +185,16 @@
       "audio-recorder:Начать/остановить запись": false,
       "bases:Создать новую базу": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
   "active": "de5242d76a0443e7",
   "lastOpenFiles": [
-    "json/json.md",
     "github/работа с ветками.md",
+    "github/github.md",
     "github/pull requests.md",
+    "json/json.md",
     "отложенные задачи/flower.md",
     "отложенные задачи/отложенные задачи.md",
     "микросервисная структура/Drawing 2025-04-12 19.48.58.excalidraw.md",
@@ -225,7 +227,6 @@
     "SQL/relationship.md",
     "SQL/relationship in sqlalchemy.md",
     "SQL/Работа с PostgreSQL на Python.md",
-    "SQL/sqlalchemy.md",
     "проекты",
     "docker",
     "themes.canvas"
