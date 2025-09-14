@@ -184,7 +184,6 @@
       "markdown-importer:Импорт Markdown-файлов": false,
       "audio-recorder:Начать/остановить запись": false,
       "bases:Создать новую базу": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
