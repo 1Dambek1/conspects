@@ -205,8 +205,10 @@
   },
   "active": "8e46fa4586d22028",
   "lastOpenFiles": [
-    "SQL/Работа с PostgreSQL на Python.md",
+    "SQL/relationship in sqlalchemy.md",
     "SQL/relationship.md",
+    "SQL/Работа с PostgreSQL на Python.md",
+    "SQL/sqlalchemy.md",
     "SQL/Виды подгрузки (loading strategies) при асинхронности в SQLAlchemy.md",
     "SQL/База данных postgres, sql язык.md",
     "архитектура проекта/архитектура.md",
@@ -237,10 +239,8 @@
     "my/complete themes.md",
     "my/themes.canvas",
     "Авторизация/pyjwt.md",
-    "Авторизация/Авторизация.md",
     "Без названия",
     "alembic",
-    "jinja+html/jinja+fastapi.md",
     "проекты",
     "docker",
     "themes.canvas"
