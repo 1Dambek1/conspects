@@ -41,7 +41,7 @@
 
 3. Добавьте все файлы в область подготовки:
 ```bash
-git add .
+git add -A
 
 ```
 
@@ -57,7 +57,13 @@ git commit -m "Первый коммит"
 git remote add origin URL_репозитория
 ```
 - Замените `URL_репозитория` на ссылку вашего GitHub-репозитория. Обычно это ссылка вида `https://github.com/username/repository.git`.
-    
+5.2. Привяжите локальный репозиторий к ветке на репозетории:
+
+```bash
+git branch -M origin main
+```
+- Замените `URL_репозитория` на ссылку вашего GitHub-репозитория. Обычно это ссылка вида `https://github.com/username/repository.git`.
+        
 6. Отправьте (пуш) коммит в удалённый репозиторий на GitHub:
 7. 
 ```bash
@@ -82,7 +88,7 @@ cd имя_репозитория
 3. Добавьте файлы в папку и выполните команды для их отправки:
 
 ```bash
-git add .
+git add -A
 git commit -m "Добавил первый набор файлов"
 git push -u origin main
 ```
