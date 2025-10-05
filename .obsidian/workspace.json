@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "docker"
             }
-          },
-          {
-            "id": "c4f29dc8dc8065b8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.9.14"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +203,7 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "c4f29dc8dc8065b8",
+  "active": "8e46fa4586d22028",
   "lastOpenFiles": [
     "SQL/sqlalchemy.md",
     "SQL/relationship in sqlalchemy.md",
