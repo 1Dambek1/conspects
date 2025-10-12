@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alembic/alembic.md",
+                "file": "Авторизация/Авторизация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alembic"
+              "title": "Авторизация"
             }
           }
         ],
@@ -205,10 +205,11 @@
   },
   "active": "8e46fa4586d22028",
   "lastOpenFiles": [
-    "docker/docker.md",
-    "SQL/sqlalchemy.md",
+    "alembic/alembic.md",
     "SQL/relationship in sqlalchemy.md",
     "SQL/relationship.md",
+    "docker/docker.md",
+    "SQL/sqlalchemy.md",
     "SQL/Работа с PostgreSQL на Python.md",
     "SQL/Виды подгрузки (loading strategies) при асинхронности в SQLAlchemy.md",
     "SQL/База данных postgres, sql язык.md",
@@ -235,7 +236,6 @@
     "async/Асинхронность в Python.md",
     "docker/docker compose.md",
     "микросервисная структура",
-    "alembic/alembic.md",
     "my/complete themes.md",
     "my/themes.canvas",
     "Авторизация/pyjwt.md",
