@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "alembic/alembic.md",
+                "file": "SQL/sqlalchemy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "alembic"
+              "title": "sqlalchemy"
             }
           }
         ],
@@ -205,8 +205,8 @@
   },
   "active": "8e46fa4586d22028",
   "lastOpenFiles": [
-    "SQL/relationship in sqlalchemy.md",
     "alembic/alembic.md",
+    "SQL/relationship in sqlalchemy.md",
     "Авторизация/Авторизация.md",
     "SQL/relationship.md",
     "docker/docker.md",
