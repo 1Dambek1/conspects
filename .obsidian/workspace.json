@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker compose.md",
+                "file": "Авторизация/pyjwt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker compose"
+              "title": "pyjwt"
             }
           }
         ],
@@ -205,13 +205,14 @@
   },
   "active": "8e46fa4586d22028",
   "lastOpenFiles": [
-    "docker/docker.md",
+    "Авторизация/Авторизация.md",
+    "Авторизация/pyjwt.md",
     "docker/docker compose.md",
+    "docker/docker.md",
     "redis/redis.md",
     "alembic/alembic.md",
     "SQL/sqlalchemy.md",
     "SQL/relationship in sqlalchemy.md",
-    "Авторизация/Авторизация.md",
     "SQL/relationship.md",
     "SQL/Работа с PostgreSQL на Python.md",
     "SQL/Виды подгрузки (loading strategies) при асинхронности в SQLAlchemy.md",
@@ -237,7 +238,6 @@
     "base/Урок 1-2 (router, methods, theory, params).md",
     "async/Асинхронность в Python.md",
     "микросервисная структура",
-    "my/complete themes.md",
     "my/themes.canvas",
     "Без названия",
     "alembic",
