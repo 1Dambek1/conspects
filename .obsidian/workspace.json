@@ -205,6 +205,7 @@
   },
   "active": "8e46fa4586d22028",
   "lastOpenFiles": [
+    "SQL/шпаргалка.md",
     "Авторизация/pyjwt.md",
     "Авторизация/Авторизация.md",
     "docker/docker compose.md",
@@ -236,7 +237,6 @@
     "base/errors.md",
     "base/depends, request в fastapi.md",
     "base/Урок 1-2 (router, methods, theory, params).md",
-    "async/Асинхронность в Python.md",
     "микросервисная структура",
     "my/themes.canvas",
     "Без названия",
