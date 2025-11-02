@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Websocket/Websocket.md",
+                "file": "SQL/шпаргалка.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Websocket"
+              "title": "шпаргалка"
             }
           }
         ],
@@ -219,8 +219,8 @@
   },
   "active": "eba167e47ff53f47",
   "lastOpenFiles": [
-    "SQL/шпаргалка.md",
     "Websocket/Websocket.md",
+    "SQL/шпаргалка.md",
     "SQL/sqlalchemy.md",
     "Авторизация/pyjwt.md",
     "Авторизация/Авторизация.md",
