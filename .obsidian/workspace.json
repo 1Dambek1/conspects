@@ -67,12 +67,14 @@
             "id": "150c1829a311e229",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Добавление фото в БД/Добавление фото в БД.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.10.3"
+              "icon": "lucide-file",
+              "title": "Добавление фото в БД"
             }
           }
         ],
@@ -245,12 +247,17 @@
   },
   "active": "150c1829a311e229",
   "lastOpenFiles": [
-    "docker/docker compose.md",
-    "UV/UV.md",
-    "UV",
-    "SQL/шпаргалка.md",
-    "Websocket/Websocket.md",
     "SQL/sqlalchemy.md",
+    "SQL/Работа с PostgreSQL на Python.md",
+    "SQL/Виды подгрузки (loading strategies) при асинхронности в SQLAlchemy.md",
+    "SQL/шпаргалка.md",
+    "SQL/База данных postgres, sql язык.md",
+    "Добавление фото в БД/Добавление фото в БД.md",
+    "UV/UV.md",
+    "Добавление фото в БД",
+    "docker/docker compose.md",
+    "UV",
+    "Websocket/Websocket.md",
     "Авторизация/pyjwt.md",
     "Авторизация/Авторизация.md",
     "docker/docker.md",
@@ -258,9 +265,6 @@
     "alembic/alembic.md",
     "SQL/relationship in sqlalchemy.md",
     "SQL/relationship.md",
-    "SQL/Работа с PostgreSQL на Python.md",
-    "SQL/Виды подгрузки (loading strategies) при асинхронности в SQLAlchemy.md",
-    "SQL/База данных postgres, sql язык.md",
     "архитектура проекта/архитектура.md",
     "github/pull requests.md",
     "github/работа с ветками.md",
@@ -277,12 +281,10 @@
     "Pasted Image 20250419201412_139.png",
     "отложенные задачи",
     "архитектура проекта",
-    "base/errors.md",
     "микросервисная структура",
     "my/themes.canvas",
     "alembic",
     "проекты",
-    "docker",
     "themes.canvas"
   ]
 }
