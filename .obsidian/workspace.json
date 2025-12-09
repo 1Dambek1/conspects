@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UV/UV.md",
+                "file": "Хэширование паролей/Хэширование паролей.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UV"
+              "title": "Хэширование паролей"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 200
   },
   "right": {
     "id": "1146e1116a01c8e5",
@@ -214,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,11 +234,15 @@
   },
   "active": "9bafcdc6846caf95",
   "lastOpenFiles": [
+    "Хэширование паролей/Генерация приватного и публичного ключа.md",
+    "Хэширование паролей/Хэширование паролей.md",
+    "Без названия",
+    "UV/UV.md",
+    "Хэширование паролей",
     "архитектура проекта/архитектура.md",
     "Функции Python/Функция zip().md",
     "Без названия.md",
     "Функции Python/Функция map().md",
-    "UV/UV.md",
     "Добавление фото в БД/Добавление фото в БД.md",
     "Функции Python",
     "SQL/sqlalchemy.md",
@@ -260,17 +265,13 @@
     "github/работа с ветками.md",
     "github/github.md",
     "json/json.md",
-    "отложенные задачи/flower.md",
-    "отложенные задачи/отложенные задачи.md",
     "json",
     "redis",
     "Excalidraw",
     "Pasted Image 20250419201412_139.png",
     "отложенные задачи",
     "архитектура проекта",
-    "микросервисная структура",
     "my/themes.canvas",
-    "alembic",
     "themes.canvas"
   ]
 }
