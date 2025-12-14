@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Хэширование паролей/Хэширование паролей.md",
+                "file": "SQL/relationship in sqlalchemy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Хэширование паролей"
+              "title": "relationship in sqlalchemy"
             }
           }
         ]
@@ -191,9 +191,10 @@
   },
   "active": "9c8499a0f6438916",
   "lastOpenFiles": [
+    "SQL/relationship.md",
+    "Хэширование паролей/Хэширование паролей.md",
     "Хэширование паролей/Генерация privat_key и  public_key.md",
     "Хэширование паролей/Генерация приватного и публичного ключа.md",
-    "Хэширование паролей/Хэширование паролей.md",
     "SQL/sqlalchemy.md",
     "SQL/шпаргалка.md",
     "docker/docker compose.md",
@@ -218,7 +219,6 @@
     "redis/redis.md",
     "alembic/alembic.md",
     "SQL/relationship in sqlalchemy.md",
-    "SQL/relationship.md",
     "github/pull requests.md",
     "github/работа с ветками.md",
     "github/github.md",
