@@ -4,33 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "7eea87bf57634ee2",
+        "id": "843e3413a7f9951c",
         "type": "tabs",
         "children": [
           {
-            "id": "9c8499a0f6438916",
+            "id": "50b36e4ee1c87f14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DropBox/Сохранение видео на DropBox.md",
+                "file": "docker/docker compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Сохранение видео на DropBox"
+              "title": "docker compose"
             }
           },
           {
-            "id": "941f1feaf63e9baa",
+            "id": "8ce6b3b612e1eeed",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.11.7"
+                "currentVersion": "1.12.4"
               },
               "icon": "lucide-book-up",
-              "title": "примечания к выпуску 1.11.7"
+              "title": "примечания к выпуску 1.12.4"
             }
           }
         ],
@@ -202,8 +202,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "941f1feaf63e9baa",
+  "active": "8ce6b3b612e1eeed",
   "lastOpenFiles": [
+    "docker/docker.md",
+    "docker/docker compose.md",
     "SQL/relationship in sqlalchemy.md",
     "DropBox/Сохранение видео на DropBox.md",
     "DropBox",
@@ -213,7 +215,6 @@
     "Хэширование паролей/Хэширование паролей.md",
     "Хэширование паролей/Генерация privat_key и  public_key.md",
     "Хэширование паролей/Генерация приватного и публичного ключа.md",
-    "docker/docker compose.md",
     "UV/UV.md",
     "Хэширование паролей",
     "архитектура проекта/архитектура.md",
@@ -230,7 +231,6 @@
     "Websocket/Websocket.md",
     "Авторизация/pyjwt.md",
     "Авторизация/Авторизация.md",
-    "docker/docker.md",
     "redis/redis.md",
     "alembic/alembic.md",
     "github/pull requests.md",
