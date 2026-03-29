@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "redis/redis.md",
+                "file": "UV/UV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "redis"
+              "title": "UV"
             }
           }
         ],
@@ -206,6 +206,7 @@
   },
   "active": "8ce6b3b612e1eeed",
   "lastOpenFiles": [
+    "redis/redis.md",
     "docker/docker.md",
     "docker/docker compose.md",
     "SQL/relationship in sqlalchemy.md",
@@ -233,7 +234,6 @@
     "Websocket/Websocket.md",
     "Авторизация/pyjwt.md",
     "Авторизация/Авторизация.md",
-    "redis/redis.md",
     "alembic/alembic.md",
     "github/pull requests.md",
     "github/работа с ветками.md",
