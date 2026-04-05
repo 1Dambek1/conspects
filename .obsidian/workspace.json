@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL/шпаргалка.md",
+                "file": "UV/UV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "шпаргалка"
+              "title": "UV"
             }
           }
         ],
@@ -220,13 +220,13 @@
   },
   "active": "65f3d0c6d8cf7da8",
   "lastOpenFiles": [
+    "SQL/шпаргалка.md",
     "redis/redis.md",
     "docker/docker.md",
     "docker/docker compose.md",
     "SQL/relationship in sqlalchemy.md",
     "DropBox/Сохранение видео на DropBox.md",
     "DropBox",
-    "SQL/шпаргалка.md",
     "SQL/sqlalchemy.md",
     "SQL/relationship.md",
     "Хэширование паролей/Хэширование паролей.md",
