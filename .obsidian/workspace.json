@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "843e3413a7f9951c",
+        "id": "41bef0a017927f89",
         "type": "tabs",
         "children": [
           {
-            "id": "50b36e4ee1c87f14",
+            "id": "e700c7909d537609",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker compose.md",
+                "file": "Работа на сервере Ubuntu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker compose"
+              "title": "Работа на сервере Ubuntu"
             }
           }
         ]
@@ -189,8 +189,11 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "50b36e4ee1c87f14",
+  "active": "e700c7909d537609",
   "lastOpenFiles": [
+    "Работа на сервере Ubuntu.md",
+    "Работа на сервере",
+    "docker/docker compose.md",
     "UV/UV.md",
     "github/github.md",
     "github/работа с ветками.md",
@@ -198,7 +201,6 @@
     "SQL/шпаргалка.md",
     "redis/redis.md",
     "docker/docker.md",
-    "docker/docker compose.md",
     "DropBox/Сохранение видео на DropBox.md",
     "DropBox",
     "SQL/sqlalchemy.md",
@@ -209,7 +211,6 @@
     "Хэширование паролей",
     "архитектура проекта/архитектура.md",
     "Функции Python/Функция zip().md",
-    "Без названия.md",
     "Функции Python/Функция map().md",
     "Добавление фото в БД/Добавление фото в БД.md",
     "Функции Python",
@@ -221,13 +222,11 @@
     "Websocket/Websocket.md",
     "Авторизация/pyjwt.md",
     "Авторизация/Авторизация.md",
-    "alembic/alembic.md",
     "json",
     "redis",
     "Excalidraw",
     "Pasted Image 20250419201412_139.png",
     "отложенные задачи",
-    "архитектура проекта",
     "my/themes.canvas",
     "themes.canvas"
   ]
