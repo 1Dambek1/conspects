@@ -14,12 +14,12 @@ sudo apt update
 ## Установите Git
 
 ```
-sudo apt install -y git
-```
-### Обновите систему и установите необходимые пакеты
 
 ```
-sudo apt update
+### Установите необходимые пакеты
+
+```
+sudo apt install -y git
 sudo apt install -y ca-certificates 
 curl gnupg lsb-release
 ```
@@ -34,14 +34,15 @@ sudo chmod a+r /etc/apt/keyrings/docker.gpg
 ### Подключите официальный репозиторий Docker
 
 ```
+rm -f /etc/apt/sources.list.d/docker.list
 . /etc/os-release
-echo \  "deb [arch=$(dpkg --print-architecture) \  signed-by=/etc/apt/keyrings/docker.gpg] \  https://download.docker.com/linux/ubuntu \  $(. /etc/os-release && echo $VERSION_CODENAME) stable" | \
-sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
+echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu $VERSION_CODENAME stable" > /etc/apt/sources.list.d/docker.list
+apt update
 ```
 ### Обновите список пакетов
 
 ```
-sudo apt update
+
 ```
 ### Установите Docker Engine и Docker Compose Plugin
 
@@ -91,4 +92,9 @@ sudo apt install -y ufw
 
 ```
 sudo ufw allow 8001/tcp
+```
+
+## Переименовываем .env.example 
+```
+cp .env.example .env
 ```
