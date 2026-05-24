@@ -1,3 +1,11 @@
+### Если подключаемся на прямую по публичному IP
+```
+ssh ip-server@root
+```
+###Если подключаемся к приватному серверу через сервер с публичным IP
+```
+ssh -J root@PUBLIC_NGINX_IP root@192.168.0.3
+```
 ### Обновите список пакетов
 
 ```
@@ -20,12 +28,13 @@ curl gnupg lsb-release
 ```
 sudo mkdir -p /etc/apt/keyrings
 curl -fsSL https://download.docker.com/linux/ubuntu/gpg | \
-sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpgsudo 
-chmod a+r /etc/apt/keyrings/docker.gpg
+sudo gpg --dearmor -o /etc/apt/keyrings/docker.gpg
+sudo chmod a+r /etc/apt/keyrings/docker.gpg
 ```
 ### Подключите официальный репозиторий Docker
 
 ```
+. /etc/os-release
 echo \  "deb [arch=$(dpkg --print-architecture) \  signed-by=/etc/apt/keyrings/docker.gpg] \  https://download.docker.com/linux/ubuntu \  $(. /etc/os-release && echo $VERSION_CODENAME) stable" | \
 sudo tee /etc/apt/sources.list.d/docker.list > /dev/null
 ```
