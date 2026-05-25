@@ -11,11 +11,6 @@ ssh -J root@PUBLIC_NGINX_IP root@192.168.0.3
 ```
 sudo apt update
 ```
-## Установите Git
-
-```
-
-```
 ### Установите необходимые пакеты
 
 ```
@@ -38,11 +33,6 @@ rm -f /etc/apt/sources.list.d/docker.list
 . /etc/os-release
 echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/docker.gpg] https://download.docker.com/linux/ubuntu $VERSION_CODENAME stable" > /etc/apt/sources.list.d/docker.list
 apt update
-```
-### Обновите список пакетов
-
-```
-
 ```
 ### Установите Docker Engine и Docker Compose Plugin
 
