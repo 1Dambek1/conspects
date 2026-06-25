@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docker/docker.md",
+                "file": "UV/UV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "docker"
+              "title": "UV"
             }
           }
         ]
@@ -191,6 +191,7 @@
   },
   "active": "e700c7909d537609",
   "lastOpenFiles": [
+    "docker/docker.md",
     "pytest.md",
     "00_Систематизированные конспекты/Главная.md",
     "Подготовка в ЕГЭ/Учебник Future Step - конспекты занятий/05. Системы счисления.md",
@@ -217,7 +218,6 @@
     "00_Систематизированные конспекты/02 FastAPI/FastAPI - базовый конспект.md",
     "00_Систематизированные конспекты/01 Python/Python - основы для backend.md",
     "Работа на сервере",
-    "docker/docker compose.md",
     "DropBox",
     "Хэширование паролей",
     "Функции Python",
