@@ -13,21 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Яндекс Лицей (быстрый трек)/Шифр Виженера.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Шифр Виженера"
-            }
-          },
-          {
-            "id": "b8c6e61f65c70402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Дек и все-все-все.md",
+                "file": "Яндекс Лицей (быстрый трек)/Дек и все-все-все.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "Дек и все-все-все"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -204,10 +189,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "b8c6e61f65c70402",
+  "active": "fcfb62dcbbe2906d",
   "lastOpenFiles": [
     "Яндекс Лицей (быстрый трек)/Шифр Виженера.md",
-    "Дек и все-все-все.md",
+    "Яндекс Лицей (быстрый трек)/Дек и все-все-все.md",
     "UV/UV.md",
     "Яндекс Лицей (быстрый трек)/Дискуссия в желудке Акулы.md",
     "Яндекс Лицей (быстрый трек)/Соус Ухты-Ухты.md",
